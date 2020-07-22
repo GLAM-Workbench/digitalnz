@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3544729.svg)](https://doi.org/10.5281/zenodo.3544729)
+
 # DigitalNZ API
 
 Jupyter notebooks to work with data from DigitalNZ's API.
