@@ -2,3 +2,6 @@
 .DS_Store
 snippets.ipynb
 .ipynb_checkpoints
+cache.sqlite
+data
+Untitled*
