@@ -1,126 +1,222 @@
 value,count
-en,24471678
-eng,104034
-English,17035
-en_NZ,8048
+en,24489787
+eng,113997
+English,22096
+en_NZ,8083
 Mi,1816
-Māori,1477
+mul,1802
+Māori,1566
+EN,1509
+Undetermined,1287
+de,1242
 mi,655
-zxx,579
-mao,441
-Undetermined,278
-French,275
-de,263
-German,167
-en_US,91
+sv,637
+zxx,600
+mao,543
+it,347
+fr,297
+French,281
+nl,273
+German,180
+Eng,141
+ENG,131
+aa,93
+en_US,89
+pl,73
+es,70
 mi_NZ,70
-Latin,66
-other,57
-und,52
-chi,51
-EN,48
+Latin,67
+und,62
+chi,60
+other,58
+no,57
+smo,51
 la,48
-smo,43
-No linguistic content,41
+No linguistic content,42
+zh,42
+Chinese,40
+ton,40
+Italian,38
 fre,37
-ton,35
-zh,35
-mul,33
-ENG,32
-es,30
-Italian,29
+hu,37
+da,33
+Sāmoan,30
+Tongan,29
 ger,28
-Chinese,24
-fr,24
-Dutch,23
+Samoan,25
+200617s2017    nz ||nn o   ||  eng,24
+Dutch,24
+Spanish,24
+200617s2020    nz ||nn o   ||  eng,23
+Hindi,23
+200617s2018    nz ||nn o   ||  eng,22
+"Chinese, Simplified",22
+rar,21
 "Greek, Modern (1453-)",19
-Samoan,18
-kor,17
+Japanese,19
+kor,19
+"Chinese, Traditional",18
+hin,18
+Korean,17
+english,17
+200617s2019    nz ||nn o   ||  eng,16
 spa,16
-lat,14
-rar,14
-hin,13
-Spanish,12
-Arabic,11
-ara,11
-Japanese,10
-it,10
+lat,15
+Arabic,14
+cs,14
+201008s2020    nz ||nn o   ||  eng,13
+ara,12
+bg,12
+fij,12
+Hungarian,11
+tkl,11
+niu,10
+200617s2016    nz ||nn o   ||  eng,9
 Polish,9
-english,9
-fij,8
-niu,8
-rus,8
-tkl,8
+rus,9
+per,8
+Cook Islands Māori,7
+En,7
+ca,7
 dut,7
 ita,7
 pt,7
-En,6
-Hungarian,6
-aa,6
-per,6
+tvl,7
+201125s2020    nz ||nn o   ||  eng,6
+el,6
+Persian,5
 Tahitian,5
+gil,5
+ind,5
 jpn,5
+por,5
 ru,5
-tvl,5
-Persian,4
+som,5
+210115s2020    nz ||nn o   ||  eng,4
+English / French,4
+Portuguese,4
 Rarotongan,4
 Russian,4
 Swedish,4
+et,4
 pol,4
-por,4
-Eng,3
+vie,4
+201001s2020    nz ||nn o   ||  eng,3
+210301s2021    nz ||nn o   ||  eng,3
+Burmese,3
+Fijian,3
+Italian and English,3
+Niuean,3
 Tonga (Tonga Islands),3
-gil,3
-ind,3
+ben,3
 ja,3
-som,3
+lt,3
+may,3
 tel,3
+tgl,3
 tha,3
 to,3
-vie,3
+tur,3
+urd,3
+210115s2021    nz ||nn o   ||  eng,2
+210212s2021    nz ||nn o   ||  eng,2
+210301s2020    nz ||nn o   ||  eng,2
+210311s2021    nz ||nn o   ||  eng,2
+210506s2021    nz ||nn o   ||  eng,2
+Amharic,2
+Cambodian-Khmer,2
+EN FR,2
+English and Portuguese,2
 Enlish,2
 Gaelic,2
+Geez,2
+Kiribati (Gilbertese),2
+Maori,2
+Persian ( Farsi ),2
+Pushto Afghani,2
+Somali,2
+Tuvaluan,2
+Vietnamese,2
 epo,2
+ga,2
 pan,2
+pus,2
 rum,2
-tgl,2
 tib,2
-urd,2
+201207s2020    nz ||nn o   ||  eng,1
+210120s2021    nz ||nn o   ||  eng,1
+210215s2021    nz ||nn o   ||  eng,1
+210305s2021    nz ||nn o   ||  eng,1
+210322s2021    nz ||nn o   ||  eng,1
+210325s2021    nz ||nn o   ||  eng,1
+210408s2021    nz ||nn o   ||  eng,1
+210416s2021    nz ||nn o   ||  eng,1
+210420s2021    nz ||nn o   ||  eng,1
+210514s2021    nz ||nn o   ||  eng,1
+Anglais,1
 Bengali,1
+Brazilian Portuguese,1
+Brazilian Portuguese and English,1
+Chinese and English,1
 Czech,1
 En Fr,1
 Engliah,1
 Englich,1
 English (with French abstract),1
-English and Portuguese,1
+English / Abstract in English and French,1
+English / Abstract in English and Portuguese,1
+English / Portuguese,1
+English / Spanish,1
+English and French,1
+English and Italian,1
+English and Maori,1
+English and Māori,1
+English and Slovenian (Abstract),1
+English and Spanish,1
+English and other indigenous languages,1
 "English, German, French",1
+"English, Italian",1
 "English, Serbian",1
 "English, Spanish",1
+English-Chinese,1
+English. Abstract in English and Spanish.,1
 English/Maori,1
 English; Chinese,1
 Englsgh,1
-Fijian,1
-Geez,1
-Hindi,1
+Enlgish,1
+Fr,1
+French and English,1
+French with Spanish and English abstract,1
+Ger,1
+Gujarati,1
+Hebrew,1
 Lithuanian,1
-Maori,1
 Māori; English,1
-Niuean,1
+NZ Sign Language,1
+New Zealand,1
+Portuguese / English,1
+Punjabi,1
 Romanian,1
+SP,1
 Serbian,1
+"Spanish, Spanish/English abstract",1
+Spanish/English,1
 Spanish; Castilian,1
 Te Reo Māori,1
 Tokelau,1
-Tongan,1
+Tokelauan,1
+Turkish,1
+Unspecified,1
 Urdu,1
 afr,1
 amh,1
 arc,1
-ben,1
 bis,1
 bur,1
 cpe,1
 en-nz,1
+eng fre,1
+fi,1
 fra,1
 gd_NZ,1
 gre,1
@@ -128,9 +224,9 @@ hun,1
 khm,1
 kin,1
 map,1
-may,1
 nya,1
-pus,1
+ro,1
+sin,1
 sna,1
 srp,1
 swa,1

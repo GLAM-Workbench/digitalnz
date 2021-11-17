@@ -1,279 +1,285 @@
 value,count
-Audio,367568
-Item,300123
-text,221065
-Text,133150
-StillImage,96224
-article,81818
-image,77783
-Still Image,60962
-Books,53644
-Thesis,35849
-Journal article,34086
-Piece,29004
-advertising,20871
-Maps,16965
-photograph,16870
-Photograph,13237
-Magazines,10553
-audio/mpeg,10203
-Scholarly text,10026
-Websites,8971
-Image,8225
-Conference item,7878
-Theses / Dissertations,7407
-Physical Object,6891
-Stories,6427
-Sound,5791
-Report,5101
-MovingImage,4285
-illustration,2966
-Television,2669
-InteractiveResource,2668
-Master's,2458
-Book item,2386
-Object,2141
-Doctoral,2131
-Book,2069
-Subject Authority,2045
-Conference paper,1874
+Audio,394713
+Item,303865
+text,225842
+Text,133492
+article,110085
+Magazines,106652
+StillImage,96804
+Journals,95330
+image,76941
+Still Image,62644
+Books,57063
+Thesis,41481
+Journal article,35978
+Piece,29342
+advertising,29127
+Photograph,20877
+photo,17551
+Maps,17067
+photograph,16917
+Scholarly text,14777
+IMAGE,14581
+Physical Object,14137
+audio/mpeg,12003
+Websites,9221
+Image,8229
+Conference item,8204
+Theses / Dissertations,8064
+Stories,7271
+Sound,6013
+illustration,5769
+dataset,5398
+Report,5164
+MovingImage,4341
+Object,3844
+journal contribution,3264
+Television,2822
+InteractiveResource,2698
+Subject Authority,2679
+Master's,2462
+Book item,2431
+Art work,2168
+Doctoral,2147
+Book,2083
+Conference paper,1894
+Colour Photographic Print,1883
 Journal Articles,1862
-video,1817
-Working or discussion paper,1814
-artwork,1725
-Documentary,1652
-interactive,1644
-Conference Contributions - Published,1618
-Name Authority,1528
-Art work,1389
-Masters,1370
-Conference Contributions - Other,1224
-dataset,1193
-Moving Image,1121
-Collection,1057
-People,1044
-Art,1042
-zoomify,1012
-Thesis or Dissertation,948
-"photograph, black and white",931
+Name Authority,1854
+video,1842
+Working or discussion paper,1822
+figure,1782
+Documentary,1759
+artwork,1728
+interactive,1651
+Conference Contributions - Published,1626
+map,1517
+Masters,1382
+TEXT,1372
+Conference Contributions - Other,1225
+Moving Image,1132
+thesis,1128
+People,1079
+Collection,1061
+Art,1041
+zoomify,1035
+"photograph, black and white",939
+Music Video,938
+Unclassified,933
 "photograph, album",926
-Music Video,902
-map,888
-ephemera,886
-Colour Photographic Print,876
-Unclassified,850
+conference contribution,906
+ephemera,887
 still image,810
-Conference Contribution - Published,793
+Conference Contribution - Published,804
+Drama,778
 song,754
-Drama,738
+graph,645
 document,644
-graph,623
-Short Film,619
-"Poster, chart, other",611
+Short Film,642
 text/image,599
 Letter,590
-Reports,548
+Comedy,566
+Black & white photographic print,555
+Reports,553
 info:eu-repo/semantics/article,547
 info:eu-repo/semantics/published Version,547
 Discussion / Working Papers,541
-Comedy,514
-people,505
-object,497
+Film,499
+object,499
 PhysicalObject,496
-Watercolors,495
-cartoon,483
-Film,458
+Watercolors,494
+cartoon,484
 diagram,455
-Conference poster,432
-Māori,423
-Series,400
-Document,374
-Posters,367
-Black & white photographic print,358
-Music Notation,356
-Group,349
-Arts/Culture,347
-Dress,345
-Paintings,345
-Creative work,338
-Music,332
-speech,319
+Māori,441
+Conference poster,434
+Series,416
+"Poster, chart, other",375
+Document,372
+Arts/Culture,369
+Music,365
+Posters,365
+Dress,355
+Numismatics,355
+Music Notation,354
+Paintings,346
+Creative work,341
+speech,320
+Pop,318
 Interactive Resource,317
-Pop,303
+VIDEO,281
+News/Current Affairs,271
 Drawings,270
+presentation,270
+Web,267
 Pencil works,261
-News/Current Affairs,257
-Web,248
-Children,229
-Your Story,209
+Children,239
+Your Story,214
 Exegesis,205
+Scholarly Text,197
+Sport,197
 Illustrations,196
-Scholarly Text,196
-B&W Photographic Print,194
-Conference Contribution - Unpublished,190
+Conference Contribution - Unpublished,193
+Videos,191
+SOUND,190
 Pen works,189
-Videos,189
-Journal Article,188
+War,189
 Lantern slides.,185
-War,185
-Sport,181
+Book covers,180
 Ink drawings,176
-Engravings,175
+Photographs,172
 Seminar Paper,172
-Photographs,166
-Book covers,159
-Lifestyle,159
-Rock,157
-35mm colour slide,152
-Te Reo,152
+Te Reo,171
+Rock,165
+Lifestyle,162
+moving image,150
 Alternative,141
 community-contribution,140
-moving image,139
+Chapter,139
+Pasifika,137
 Oral Presentations,136
+Dataset,134
 Reality TV,134
-Mounts,131
+Animation,130
 Lithographs,128
-Places,126
-Dataset,125
-Magazine,122
-Black and white photograph,121
-Animation,120
-Nature,113
+Places,128
+Nature,126
+Popular Factual,125
+Magazine,120
 Specimen,113
+Images,111
 Prints,111
-Images,110
-Popular Factual,110
+Group,110
+music,110
 Oil paintings,109
-music,104
-Adaptation,98
+Place Authority,107
+Adaptation,101
+Young Adults,97
+Patent,95
 Chapters,93
-Patent,93
-Young Adults,90
-Coat,89
-Promotional,84
-Place Authority,83
+Promotional,92
+Romance,92
+media,91
+Coat,90
+Recordtype Authority,89
+chapter,88
+Action,80
+Day dress,79
+Thriller,79
 "photograph, colour",79
-Romance,78
-Cartoons,76
-Day dress,76
+online resource,78
+Travel,77
+Society,76
 whakapapa,76
 Gelatin silver prints.,75
-Action,73
-Adventure,73
-Society,72
+Adventure,74
+poster,73
+Evening dress,72
 postage-stamp,72
-Evening dress,71
-Thriller,71
-Travel,70
+Cartoons,71
 Case study,69
 Flying Nun,69
-natural-sounds,67
-Evening gown,66
-Fantasy,65
-Hat,64
+natural-sounds,68
+Evening gown,67
+Fantasy,67
+Hat,66
+Horror,64
 postcard,64
 Portrait photographs.,63
 Watercolors.,62
+Hip Hop,61
 Swimsuit,61
+report,61
 Wash drawings,60
 Captioned,59
-Horror,58
-Recordtype Authority,57
-Hip Hop,56
+Educational,59
+table,58
+Dance,57
+LGBTQI+,57
+Variety,57
 Periodical,56
-Dance,55
-Educational,55
+Sci-fi,56
 Enterprise,55
-LGBT,55
 Authored Books,54
-Submission,54
-Presentation,53
-Sci-fi,53
-table,53
-Chapter,51
-Variety,51
+sound,53
+preprint,51
+book,49
+Ephemera,48
 Magazine covers,48
-Artefact,47
 Cartoons (Commentary),47
-Ephemera,46
-Working Paper,46
+Artefact,46
+Crime,46
+Journal Article,46
+Sepia print,46
 Caricatures,45
+Engravings,45
 Postcards.,44
 Working Papers,44
 node,44
-Pamphlets,42
+Pamphlets,43
 Albumen prints.,41
 Gelatin silver prints,41
 Media,41
-Crime,40
-sound,40
+Mockumentary,41
+Events,40
+Black and white photograph,39
+Cocktail dress,39
+Indie,39
+Print,39
 Wedding dress,39
-Cocktail dress,38
-Correspondence,38
-Indie,38
+Maori,38
+Poster,38
 Soap Opera,38
-Mockumentary,37
-Programmes/Printed Ephemera,36
-Events,35
+Correspondence,37
 Gouaches,35
-Maori,35
+Tools and equipment,35
+Chat show,33
 Group portraits.,33
-Other,33
+Electronic,32
+Jacket,32
+Manuscripts,32
 Newsletter,32
-Publication Factsheet,32
-Tools and equipment,32
-Chat show,31
-Jacket,31
+Research Project,32
+Experimental,31
+Periodicals,31
 Photomechanical prints.,31
-Research Project,31
 Arts,30
-Experimental,30
-Electronic,29
-Itinerary/Fixture List,29
-Periodicals,29
+Archival Item,29
+R&B,29
 Women Decision-Makers of Tasman 1944-2018,29
-Manuscripts,28
-Postcard,28
-Poster,27
-Commercial,26
-Publication Case study,26
-Cricket Bat,25
-Programme,25
-Publication,25
-R&B,25
-Tourist Guide,25
+Commercial,27
+Clothing and personal items,25
+Photocopy,25
 wav,25
 Bathing suit,24
+Government publication,23
+Published,23
+Soul,23
 Bikini,22
 Extension Activity,22
 Game Show,22
-Musical instruments,22
-Sepia print,22
 Conference Item,21
-Playing Shirt,21
+Reggae,21
 Women Decision-makers of Nelson 1956-2018,21
-Archival Item,20
 Letterpress works,20
 Polymer paintings,20
 Transparencies,20
 otago-places,20
-B&W Photographic print from magazine [?],19
-Reggae,19
+Bookplates,19
+Ceramics,19
 auckland-places,19
 bay-of-plenty-places,19
 Brush works,18
 Dub,18
+Folk,18
 Marlborough Women Standing tall,18
 Peer reviewed article,18
 Popular Press / News Item,18
-Soul,18
 Tie,18
 canterbury-places,18
 canterbury-region,18
+software,18
 Acrylic paintings,17
-Design,17
 Easy Listening,17
-Folk,17
 Maps.,17
 Quiz Show,17
 history-of-immigration,17
@@ -281,25 +287,27 @@ northland-places,17
 waikato-places,17
 wellington-places,17
 wellington-region,17
-Badge,16
 Compositions,16
+Design,16
+Photographic prints,16
 auckland-region,16
 nelson-region,16
 northland-region,16
 otago-region,16
 waikato-region,16
-Bound Papers,15
 Cartes de visite.,15
 "Jacket, skirt",15
 Journal,15
 Pen works.,15
-Wicket,15
+Scholarly Edition,15
+"Top, skirt",15
 Women's suit,15
 aiff,15
 diseases-of-sheep-cattle-and-deer,15
 hawkes-bay-region,15
 historic-earthquakes,15
 manawatu-and-horowhenua-region,15
+physical object,15
 taranaki-region,15
 volcanic-plateau-places,15
 volcanic-plateau-region,15
@@ -307,26 +315,24 @@ wairarapa-region,15
 west-coast-places,15
 west-coast-region,15
 whanganui-region,15
-Government publication,14
 Jumpsuit,14
 Nelson Heritage Homes,14
 Portrait photographs,14
-Scrapbook,14
+Postcard,14
 Text Image,14
-"Top, skirt",14
 bay-of-plenty-region,14
 english,14
 hauraki-coromandel-region,14
 southland-region,14
-Clothing and personal items,13
 "Coat, dress",13
 Collections,13
-Colour Photographic print,13
 Digital Photograph,13
 Digital image,13
 "Dress, jacket",13
+Inscriptions,13
 Punk,13
 Seaview Cemetery,13
+T-shirt,13
 Top,13
 dairying-and-dairy-products,13
 east-coast-region,13
@@ -335,8 +341,9 @@ king-country-region,13
 marlborough-region,13
 south-canterbury-region,13
 the-new-zealanders,13
-B&W Print cut from magazine,12
-Scholarly Edition,12
+Book review,12
+Funk,12
+Preprint Server Paper,12
 Shirt,12
 collectionstill image,12
 economic-history,12
@@ -348,12 +355,12 @@ scots,12
 shrubs-and-small-trees-of-the-forest,12
 southland-places,12
 te-ara-a-history,12
-Annual Report,11
-Book review,11
+Bookplate,11
 Crayon drawings,11
 Graphic design drawings,11
-"Papers, Letters & Documents",11
+Printed Photograph,11
 Stipple engravings,11
+Vessels and fittings,11
 Wood engravings,11
 aviation,11
 crafts-and-applied-arts,11
@@ -369,10 +376,10 @@ railways,11
 the-voyage-out,11
 wairarapa-places,11
 wetland-birds,11
+Booklet,10
 Clippings.,10
-Funk,10
-Guides and manuals,10
-Programme (Tour),10
+Musical,10
+Skirt,10
 conservation-a-history,10
 diverse-religions,10
 economy,10
@@ -390,7 +397,6 @@ nga-waewae-tapu-maori-exploration,10
 ngai-tahu,10
 olympic-and-commonwealth-games,10
 painting,10
-physical object,10
 rock-limestone-and-clay,10
 sheep-farming,10
 shipping,10
@@ -400,11 +406,7 @@ strikes-and-labour-disputes,10
 taranaki-places,10
 whanganui-places,10
 womens-movement,10
-works of art,10
 Albumen silver prints,9
-Blazer,9
-Booklet,9
-Cap,9
 Cape,9
 Dye coupler transparencies.,9
 Film negatives.,9
@@ -412,11 +414,9 @@ Marlborough Women and the Petition,9
 Men's suit,9
 Photographic prints.,9
 Pottery,9
+Presentation,9
 Slides,9
 Suit,9
-T-shirt,9
-Vessels and fittings,9
-Vest,9
 agricultural-and-horticultural-research,9
 arable-farming,9
 city-history-and-people,9
@@ -450,6 +450,7 @@ violent-crime,9
 womens-health,9
 workforce-composition,9
 Ball dress,8
+Blazer,8
 Book Item,8
 Broadsheets,8
 Chromolithographs,8
@@ -457,14 +458,14 @@ Chromolithographs,8
 "Jacket, dress",8
 Kaftan,8
 News/CurrentAffairs,8
-Newspaper/Magazine Clipping,8
+Newspapers,8
+Other,8
 Pantsuit,8
-Photocopy,8
+Paper print,8
 Playsuit,8
 Posters.,8
 Raincoat,8
 Title pages,8
-Unpublished,8
 agricultural-processing-industries,8
 asian-conflicts,8
 beekeeping,8
@@ -505,6 +506,7 @@ penguins,8
 "photograph, reproduction",8
 place-names,8
 political-values,8
+pregnancy-birth-and-baby-care,8
 protected-areas,8
 public-transport,8
 publishing,8
@@ -534,14 +536,21 @@ women-and-men,8
 Architectural drawings,7
 Bird's-eye view prints,7
 Blouse,7
+"Blouse, skirt",7
 Bridesmaid dress,7
+Certificates,7
 Chalk drawings,7
+Coatdress,7
+Country,7
+Drawing,7
 "Dress, hat",7
+Electronic thesis or dissertation,7
 Engraving,7
 Ephemera.,7
 Kids,7
-Newspapers,7
-Skirt,7
+Minidress,7
+Video,7
+Western,7
 aerial-recreation,7
 agricultural-education,7
 alpine-plants,7
@@ -615,7 +624,6 @@ perceptions-of-the-landscape,7
 pets,7
 poetry,7
 pounamu-jade-or-greenstone,7
-pregnancy-birth-and-baby-care,7
 radiata-pine,7
 radio,7
 rivers,7
@@ -646,26 +654,23 @@ waka-canoes,7
 weather,7
 when-was-new-zealand-first-settled,7
 wine,7
-Ball,6
-"Blouse, skirt",6
+Animal Samples and Products,6
+Armorial bookplate,6
+Book label,6
 Cabinet Card,6
-Certificates,6
 "Coat, hat",6
-Coatdress,6
-Country,6
 Drawings.,6
 Full-length dress,6
 Historical,6
 Lithographs.,6
 Men's bathing suit,6
-Minidress,6
-Newspaper,6
 Pencil works.,6
 Performances,6
-Souvenir Programme,6
+Sound/Recorded music,6
 Sundress,6
 Swim trunks,6
-Western,6
+Tableware and furnishings,6
+"Toys, games and souvenirs",6
 adoption,6
 alternative-health-therapies,6
 anglican-church,6
@@ -783,6 +788,7 @@ samoans,6
 shows-and-field-days,6
 shrublands,6
 spiders-and-other-arachnids,6
+state-services-and-the-public-service-commissioner,6
 state-services-and-the-state-services-commission,6
 stewart-islandrakiura,6
 street-life,6
@@ -807,22 +813,21 @@ womens-labour-organisations,6
 Abstract,5
 Ball gown,5
 CDFS (CD File System),5
-Card,5
 Charcoal drawings,5
 Cloak,5
 Design drawings,5
-Drawing,5
 Editorial,5
+Iwi/Hapu Authority,5
 "Jacket, blouse and skirt with matching accessories",5
+Map,5
+Measuring Instruments,5
 Men's shirt,5
-Menu,5
 Moving image,5
 Oil paintings.,5
 Pastels (Visual works),5
 Portraits.,5
-Scorecard,5
+Shoes,5
 The Beginnings of Library Services in Golden Bay / Mohua,5
-Tour Report,5
 Tunic,5
 abortion,5
 air-crashes,5
@@ -939,6 +944,7 @@ maori-studies-nga-tari-maori,5
 marine-invaders,5
 markets,5
 middle-eastern-peoples,5
+monograph,5
 muriwhenua-tribes,5
 musket-wars,5
 national-income-and-gdp,5
@@ -1040,36 +1046,27 @@ whanau-maori-and-family,5
 whangarei-tribes,5
 womens-networks-and-clubs,5
 zoos-and-aquariums,5
-35mm B&W Negative,4
-Article,4
-Batting Gloves,4
 Bird's-eye views.,4
 Cardigan,4
-Colour Negative,4
-Colour Postcard,4
-Colour photographic print 150mm x 100mm,4
+Catalogs,4
+Clothing and Dress,4
 Conference Paper or Presentation,4
+Decorative Woodwork,4
 General,4
 Grunge,4
 Illustrations.,4
 "Jacket, pants",4
-Jersey,4
 Jumper,4
-Medal,4
 Mini dress,4
-Miscellaneous/Printed Ephemera,4
-Newspaper clipping,4
+Painting,4
 PopularFactual,4
-Scorebook,4
-Sepia photographic print,4
-Shoes,4
+Programme,4
 Singlet,4
+Sketch,4
 Slip dress,4
-Sound/Recorded music,4
-Tableware and furnishings,4
 Two piece swimsuit,4
 Two-piece suit,4
-Video,4
+Unpublished,4
 acclimatisation,4
 actors-and-acting,4
 adult-education,4
@@ -1272,51 +1269,51 @@ workshop-industries,4
 young-people-and-the-arts,4
 youth-offenders,4
 youth-organisations,4
-B&W Photographic Print 125mm x 90mm,3
-B&W Photographic print 140mm x 90mm,3
-B&W Postcard,3
+Article,3
 Bag,3
 Ballgown,3
-Blazer Crest,3
 Boxes,3
 Broadsides,3
 Brochures,3
+Cap,3
 Case Study,3
-Christmas Card/Printed Ephemera,3
 Datasets,3
 Dinner dress,3
 "Dress, belt",3
 "Dress, scarf",3
+Edited Volumes,3
 Engravings.,3
 Glass negatives.,3
 Greeting cards,3
+Intellectual Property,3
 Internet Publications,3
 Invitations,3
-Iwi/Hapu Authority,3
 Jazz,3
-Journals,3
-Manuscript,3
-Map,3
 Medals,3
+Multimedia,3
+Newspaper,3
+Newsprint,3
+Observation,3
 Pamphlet,3
 Party dress,3
-Photographic prints,3
+Personal Effects,3
+Pictorial bookplate; inscriptions,3
+Pictorial bookplates,3
 Plan,3
 Portraits,3
 Rugby jersey,3
 Sculpture,3
-Sketch,3
 Skirt suit,3
 Slides.,3
-Souvenir Book,3
+Sound/Other sound,3
 Still image,3
 Strapless dress,3
 "Suit, hat",3
 Swimsuit cape,3
-Ticket,3
 "Top, pants",3
-Train Ticket,3
 Two-piece swimsuit,3
+Website,3
+Working Paper,3
 Workshop,3
 ___,3
 accountancy,3
@@ -1352,6 +1349,7 @@ duck-shooting,3
 dune-lands,3
 e Book,3
 early-childhood-education-and-care,3
+educational resource,3
 ferries,3
 freedom-of-official-information,3
 gannets-and-boobies,3
@@ -1451,34 +1449,22 @@ welsh,3
 weta,3
 wind-and-solar-power,3
 workplace-safety-and-compensation,3
+43934,2
+ARTICLE,2
 Advertising posters,2
 Afternoon dress,2
 Audiovisual,2
-B&W Copy Negative,2
-B&W Photographic Print 140mm x 90mm,2
-B&W Photographic Print 155mm x 105mm,2
-B&W Postcard 135mm x 85mm,2
-B&W Postcard 140mm x 90mm,2
 Bathing costume,2
-Batting Pads,2
 Baxter prints,2
-Book chapter,2
 Book cover,2
-Bookplates,2
+Book labels,2
 Bra,2
 Broadsheet,2
-Brochure/Printed Ephemera,2
-Brooch,2
-Bus Timetable,2
-Business Card,2
-Catalogs,2
+Card,2
+Catalogues,2
 Coat dress,2
 Collages,2
-Colour Christmas card,2
-Colour photographic print 90mm x 90mm,2
 Concert programme,2
-Continuum,2
-Dessert dishes,2
 Dissertations,2
 Dolls,2
 Dress and coat,2
@@ -1486,14 +1472,14 @@ Dress and coat,2
 "Dress, hot pants",2
 "Dress, jacket, hat",2
 "Dress, shawl",2
-Edited Volumes,2
+Edited Volume,2
 Ensemble: dress and jacket,2
-Envelope,2
-Envelope and letter,2
 "Evening dress, gauntlets",2
 "Evening dress, jacket",2
+"Evening dress, stole",2
 "Evening gown, jacket",2
 Facsimiles,2
+Figure,2
 Forms (Documents),2
 Games,2
 Girdle,2
@@ -1501,42 +1487,42 @@ Glass negatives,2
 Going away dress,2
 Gown,2
 Group portraits,2
+Heraldry,2
 Incunabula,2
-Intellectual Property,2
 "Jacket, flared pants",2
 "Jacket, knickerbockers",2
 "Jacket, top, trousers, skirt and matching accessories",2
 "Jacket, waistcoat, trousers",2
 Jeans,2
+Jersey,2
 Journal Article (Editorials),2
 Journal Article (Reviews),2
 "Jumper, shorts",2
 Kaftan dress,2
 Landscapes (Representations),2
-Leaflet,2
 Letters (correspondence),2
 Long dress,2
+Manuscript,2
 Master of Public Policy,2
-Membership Brochure,2
+Medallions,2
 Men's jacket,2
 Mezzotints,2
-Monocromatic folded card,2
-Multimedia,2
+Musical instruments,2
 Notebook,2
-Observation,2
 Other form of assesable output,2
-Painting,2
+Periodical illustrations,2
 Photocopies,2
-Pin,2
+Photograph on Board,2
 Plates,2
 Portrait paintings,2
+Practice Project,2
 Printed sheet,2
 Programmes,2
+Proof sheet,2
 Sarong,2
 Scholarly Editions / Literary Translations,2
 Seminar,2
 Shift dress,2
-Ship Passenger List,2
 "Shirt, pants",2
 "Shirt, shorts",2
 "Shirt, skirt",2
@@ -1544,24 +1530,25 @@ Ship Passenger List,2
 Singlet dress,2
 "Skirt, blouse",2
 Software,2
+"Sound/Interview, lecture, talk",2
 Stereographs.,2
 Still lifes,2
 Stole,2
 Summer dress,2
 "T-shirt, skirt",2
 TeReo,2
-Telegram,2
 Three-piece suit,2
+Tools,2
 Top and skirt,2
 Top hat,2
 "Top, culottes",2
 "Top, jeans",2
 "Top, trousers",2
-Tour Magazine/Printed Ephemera,2
+Toys,2
 Trench coat,2
+Trousers,2
 Two-piece bathing suit,2
 Uniform,2
-Website,2
 "Wedding dress, jacket",2
 Wedding gown,2
 Women's two-piece suit,2
@@ -1572,19 +1559,17 @@ arcade-computer-and-video-games,2
 archives,2
 beauty-contests,2
 biosecurity,2
-book,2
 castaways,2
-conference contribution,2
 extreme-sports-and-adventure-sports,2
 glow-worms,2
 herons,2
-journal contribution,2
 korero-taiao-sayings-from-nature,2
 lichens,2
 magnetic-field,2
 maori-humour-te-whakakata,2
 map-interactive,2
 marine-minerals,2
+matariki-te-tau-hou-maori,2
 meteorites,2
 mosses,2
 naturism,2
@@ -1598,6 +1583,7 @@ photocopy,2
 ratana-church-te-haahi-ratana,2
 roller-skating-and-skateboarding,2
 sealing,2
+standard,2
 stick-insects,2
 te-haahi-ratana-the-ratana-church,2
 tea-coffee-and-soft-drinks,2
@@ -1607,39 +1593,24 @@ yoga-pilates-and-other-exercise-systems,2
 3 button wool suit,1
 3-piece dress,1
 41065,1
-43934,1
 A 3D printed collaborational piece,1
 "A-line coat, shift dress",1
 A-line dress,1
 "A-line dress, hot pants",1
 Acetate negatives.,1
+Advertisements,1
 "Afternoon dress, hat",1
 Albums.,1
 Animal,1
 Ankle boot,1
 Anorak,1
 Antibody Identification,1
-Apparel,1
 Architectural drawings.,1
 Archival Collection,1
 Art objects,1
 Article/Other article,1
+Article/Report,1
 At-home gown,1
-Autograph Card,1
-B&W Photographic Print & negative,1
-B&W Photographic Print 105mm x 70mm,1
-B&W Photographic Print 108mm x 165mm,1
-B&W Photographic Print 122mm x 75mm,1
-B&W Photographic Print 130mm x 90mm,1
-B&W Photographic Print 135mm x 85mm,1
-B&W Photographic Print 165mm x 108mm,1
-B&W Photographic Print 210mm x 155mm,1
-B&W Photographic Print 250mm x 150mm,1
-B&W Photographic Print from copy neg,1
-B&W Photographic print from magazine,1
-B&W Print,1
-B&W hand coloured Photographic Print,1
-B&W proof print,1
 Bachelor of Arts,1
 "Ball dress, jacket",1
 Ball gown or bridesmaid dress,1
@@ -1649,13 +1620,11 @@ Ball gown or bridesmaid dress,1
 Bathing dress,1
 Bikini beach jacket,1
 Bikini lace-up top,1
-Birthday Card,1
 Blanket poncho,1
 "Blazer, shirt, jeans",1
 "Blazer, skirt",1
 Blog site,1
 Blog sites,1
-Blouse and skirt,1
 "Blouse, pants",1
 "Blouse, skirt, waistcoat",1
 "Blouse, trousers",1
@@ -1666,7 +1635,14 @@ Board shorts,1
 Bomber jacket,1
 Bomber jacket and skinny jeans,1
 "Bomber jacket, singlet, skirt studded belt",1
+Bonnet,1
 Book drives,1
+Book labels; bookplates; inscriptions,1
+Book stamps,1
+Bookplate and book stamp,1
+Bookplates; Inscriptions,1
+Bookplates; inscription,1
+Bookplates; inscriptions,1
 Books/Manuscripts,1
 Botanical illustrations,1
 Brand website,1
@@ -1674,11 +1650,13 @@ Brassiere,1
 Bridesmaid's dress,1
 Briefcase,1
 Broadside,1
+Brochure,1
 Business cards,1
 Business jacket,1
 "Bustier, skirt, helmet",1
 "Bustier, trousers.",1
 "Cadigan, cami, skirt, skinnies, loafers",1
+Calendars,1
 "Cami, skirt",1
 Camiknickers,1
 "Camisole, knickers",1
@@ -1692,11 +1670,8 @@ Cardigan dress,1
 "Cardigan, shirt, jeans",1
 Carte de Visite,1
 "Case study, discourse",1
-Catalogues,1
 Celestial globes.,1
-Cepia photographic print 130mm x 85mm,1
 Ceramic industry,1
-Certificate,1
 Chatshow,1
 "Chest plate, helmet, mohawk, overpiece",1
 Circular,1
@@ -1727,14 +1702,13 @@ Coat frock,1
 "Coatdress, hat",1
 Cocktail dress with slip,1
 "Cocktail dress, coat",1
-Coin,1
 Colin Cole,1
 Coloured Photograph,1
 Comic books,1
 "Commissioned Report, doi: 10.13140/RG.2.2.10713.31848",1
-Complimentary Ticket,1
 Computers,1
 Conference - Other,1
+Conference Contribution - Full Conference paper,1
 Conference Contributions – Other,1
 Convertible dress,1
 Correspondence.,1
@@ -1759,7 +1733,12 @@ Dedications (documents).,1
 Digital prints.,1
 "Dinner dress, shoes",1
 "Dinner gown, jacket",1
+Diplomas,1
+Discussion Paper,1
+Dissertation,1
 DocumentarySeries,1
+Documents,1
+Domestic Equipment-Home,1
 Dramatic and Literary Texts,1
 Dress and sleeveless jacket,1
 Dress and underskirt,1
@@ -1775,6 +1754,7 @@ Dress with self belt,1
 Dress worn over a slip dress and pants,1
 "Dress, Coat",1
 "Dress, Jacket",1
+"Dress, apron, cape, collar",1
 "Dress, bag",1
 "Dress, bibs",1
 "Dress, blouse, cape",1
@@ -1794,7 +1774,6 @@ Dress worn over a slip dress and pants,1
 "Dress, headscarf",1
 "Dress, hoodie, trousers",1
 "Dress, jacket, jersey, unitard",1
-"Dress, jacket, vest",1
 "Dress, kākahu",1
 "Dress, lei",1
 "Dress, necklace",1
@@ -1812,12 +1791,10 @@ Dress worn over a slip dress and pants,1
 "Dress, vest",1
 Dresses,1
 Dressing gown,1
-Driver's Licence,1
 "Dungarees, t-shirt",1
 Duster coat,1
 E-book,1
 EasyListening,1
-Edited Volume,1
 Embroidered dress,1
 Ensemble,1
 "Ensemble of short sleeved dress, coat",1
@@ -1826,6 +1803,7 @@ Ensemble,1
 "Ensemble: jacket, sleeveless dress",1
 "Ensemble: short sleeved dress, coat",1
 "Ensemble: sleeveless dress, coat",1
+Envelopes,1
 Eukaryote,1
 Evening coat,1
 "Evening coat, gown",1
@@ -1835,7 +1813,6 @@ Evening dress with capelet,1
 "Evening dress, gloves, drawstring bag",1
 "Evening dress, headpiece",1
 "Evening dress, kimono",1
-"Evening dress, stole",1
 "Evening dress, wrap",1
 Evening ensemble,1
 Evening gown and jacket,1
@@ -1853,13 +1830,12 @@ Evening skirt and jacket,1
 Evening suit,1
 Evening top and skirt,1
 "Evening top, skirt",1
-Exhibition Catalogue,1
+Examinations,1
 Fedora,1
 Film / Video,1
 Fitted tuxedo style jacket,1
 "Flared pants, tank top, fitted shirt, tie",1
 Flying suit,1
-Footwear,1
 Formal dress,1
 "Formal dress, jacket, hat",1
 Full length coat dress,1
@@ -1884,10 +1860,16 @@ Gumboot,1
 "Hat, cravat",1
 "Hat, day dress",1
 "Hat, stole",1
+Health and Medical Equipment,1
+Heraldic bookplates,1
 Hostess uniform,1
 "Hot pants, jacket",1
+Image Text Music notation,1
 Image.,1
 Ink drawings.,1
+Inscription,1
+Inscription; pictorial bookplate,1
+Inscriptions; Bookplates,1
 Insect,1
 Instrumental,1
 Jacket (originally a coat),1
@@ -1898,6 +1880,7 @@ Jacket and skirt ensemble,1
 Jacket and skirt set,1
 Jacket and skirt suit,1
 Jacket shorts,1
+"Jacket skirt suit, pillbox hat",1
 "Jacket, blouse, pants, scarf",1
 "Jacket, camisole, wrap pants",1
 "Jacket, dress, hat, shoes",1
@@ -1944,7 +1927,6 @@ Jewelry,1
 "Jumpsuit, tunic",1
 "Kaftan dress to be worn for day with flats, or dressed up for evening with metallic belt and shoes",1
 Kaftan shaped dress,1
-Key Ring,1
 "Kilt, jacket, top and hat.",1
 Kimono,1
 Kimono coat,1
@@ -1954,7 +1936,6 @@ Knitted jersey,1
 Kākahu,1
 Labels.,1
 Lecture,1
-Ledger Book,1
 Leisure set with overskirt,1
 "Leotard, leggings",1
 Letters,1
@@ -1975,7 +1956,8 @@ Master of Arts (Applied),1
 Matching trousers and top,1
 Maternity top and shorts,1
 Matron of honour dress,1
-Membership Card,1
+Maxi dress with printed full length waistcoat,1
+Memorabilia,1
 Memorandum,1
 "Men's bathing suit, sunglasses",1
 Men's casual jacket,1
@@ -1990,23 +1972,19 @@ Mezzotints.,1
 Microform,1
 Microopaques,1
 Midriff top and shorts,1
-Miniature Autograph Bat,1
+"Minidress, bodysuit, over-the-knee socks",1
 "Minidress, jacket",1
 "Miniskirt, vest",1
-Minute Book,1
 "Mix-and-match jacket, blouse, skirt and trousers with matching accessories",1
 Mixed media,1
+Money,1
 Monuments,1
 Mother of the bride dress,1
-Name Badge,1
-Napkin,1
 Negative,1
 Newspaper article.,1
-Newsprint,1
 "Nightdress, negligee",1
 Nightie,1
 Nightwear,1
-Official Report,1
 Offset lithographs.,1
 "One-piece culottes, jacket",1
 Opera coat,1
@@ -2030,38 +2008,31 @@ Pants,1
 "Pants, tunic",1
 "Pantsuit, blouse",1
 Paper,1
-Paper print,1
 Peato- Perez dancing.,1
 "Petticoat smock, pinafore",1
-Photocopy of photograph,1
-Photographic Postcard 138mm x 85mm,1
-Photographic print 105mm x 78mm,1
 Photographs.,1
 Photolithographs.,1
 Photomechanical prints,1
+Pictorial bookplates; Book labels,1
 Pinafore dress,1
 Pinafore minidress,1
 Plans.,1
 Plaques,1
-Players Autograph Book,1
-Polaroid (copy print),1
 "Polo shirt, swim trunks",1
 Poncho,1
+Portrait drawings,1
 Portrait prints,1
-Practice Project,1
-Pre-Tour Guide/Printed Ephemera,1
 "Princess-line long dress, frock coat",1
-Print,1
+Printed bookplate,1
 Printed material,1
+Printed music,1
 Printed sheets,1
 Printing block,1
 Private Press,1
 Product insert,1
-Proof sheet,1
-"Puipiu, flax skirt",1
 Pyjama set,1
+"Pōtae, bodice, skirt, belt, neckpiece",1
 QuizShow,1
-Raffle Ticket,1
 "Raincoat, slip dress",1
 "Raincoat, sweater, leggings",1
 Rash shirt and bikini,1
@@ -2069,12 +2040,8 @@ Realia.,1
 RealityTV,1
 Records,1
 Reflective,1
-Replica Shirt,1
 Research Summary,1
-Research papers,1
-Research report,1
 "Review of N Z legal acts, iwi planning documents, and relevant planning literature",1
-Ringbinder,1
 Robe,1
 "Sash top, harem pant",1
 Scholarly Edition - Guide,1
@@ -2082,7 +2049,6 @@ Seminar presentations,1
 Separate sheet,1
 Set of skirt and top,1
 Shawl,1
-Shield/Plaque,1
 Shirt and skirt set,1
 Shirt shorts,1
 "Shirt, dress, waistcoat, pants, headpiece",1
@@ -2093,6 +2059,7 @@ Shirt shorts,1
 "Shirt, tie, jacket, trousers",1
 "Shirt, titi, headdress",1
 Shirts,1
+Shirtwaister dress,1
 "Shirtwaister dress, pants",1
 Short sleeved jacket,1
 Short-sleeved shirt and matching pleated skirt,1
@@ -2115,19 +2082,15 @@ Skirt suit and blouse,1
 "Skirt, top, jacket",1
 Sleeveless coat,1
 "Sleeveless jacket, hoodie, skirt",1
+"Sleeveless tail jacket, gym frock, tail coat, double collar shirt, back pack",1
 Slip,1
 "Soft bra, drawstring culottes",1
 Software / Code,1
-"Sound/Interview, lecture, talk",1
-Souvenir Program,1
 Special occasion dress,1
 Species,1
 Sports coat,1
-Stamps,1
 Stereoscopic photograph,1
-Stoneware Tyg,1
 Study,1
-Stump,1
 Suit and pōtae,1
 Suit jacket,1
 "Suit jacket and dress, hat",1
@@ -2170,13 +2133,13 @@ Swimsuit with long sleeves,1
 Tabard dress,1
 "Tailored bodice, sleeves, skirt",1
 "Tank, jacket, trousers, belt",1
+Telegram,1
 Tempera paintings,1
 Tennis dress,1
-Testimonial Magazine,1
 Text Image Music score,1
 Text Printed notated music,1
 Text image Printed music score,1
-The Highway Code,1
+Thesis or Dissertation,1
 Three-piece men's suit,1
 "Three-piece suit, shirt, tie",1
 Three-piece women's suit,1
@@ -2198,11 +2161,9 @@ Toque hat,1
 Trackpant,1
 Tracksuit,1
 Traditional costume (lacks piupiu),1
-Transport Booklet,1
 Trapeze top and miniskirt,1
 Trial Kit,1
 Trilby hat,1
-Trousers,1
 "Trousers, top",1
 Tunic dress,1
 Tunic sleeveless trench,1
@@ -2227,14 +2188,13 @@ Two-piece suit and blouse,1
 Two-piece suit: Jacket and skirt,1
 Two-piece women's suit,1
 Typescripts,1
-V.I.P. Pass,1
 VHS (Video Home System),1
+Vest,1
 Vest and skirt,1
 "Vest, knickerbockers",1
 "Vest, skirt, leggings",1
 "Vest, sleeves",1
 "Waistcoat, skirt",1
-Watch,1
 Watercolour drawings.,1
 "Wedding coat, skirt",1
 "Wedding dress, cap",1
@@ -2255,7 +2215,6 @@ Women's two-piece dress,1
 Women's two-piece suit (dress and jacket),1
 "Women's uniform (jacket, dress, skirt)",1
 Woodblock,1
-Wooden Spoon,1
 Working or Discussion Paper,1
 Wrap,1
 "Wrap top, boob tube, skirt",1
@@ -2263,31 +2222,24 @@ Wrap,1
 X-ray,1
 Y front brief,1
 collectionmanuscripttext,1
+composition,1
+fish,1
+fossil,1
+funding,1
 graph-interactive,1
 hefting coconut frond basket of coconuts ashore with one arm. Note another veseel approaching in background.,1
-http://www.teara.govt.nz/en/actors-and-acting,1
-http://www.teara.govt.nz/en/anthropology-and-archaeology,1
-http://www.teara.govt.nz/en/archives,1
 http://www.teara.govt.nz/en/ballet,1
 http://www.teara.govt.nz/en/billiards-snooker-pool-and-darts,1
 http://www.teara.govt.nz/en/body-shape-and-dieting,1
 http://www.teara.govt.nz/en/camping-and-camps,1
 http://www.teara.govt.nz/en/childrens-play,1
-http://www.teara.govt.nz/en/classical-and-foreign-language-studies,1
-http://www.teara.govt.nz/en/clothes,1
-http://www.teara.govt.nz/en/comics-and-graphic-novels,1
 http://www.teara.govt.nz/en/criticism-and-the-arts,1
 http://www.teara.govt.nz/en/cultural-dance,1
-http://www.teara.govt.nz/en/dancing,1
-http://www.teara.govt.nz/en/eating,1
 http://www.teara.govt.nz/en/food,1
 http://www.teara.govt.nz/en/furniture,1
 http://www.teara.govt.nz/en/government-and-sport,1
 http://www.teara.govt.nz/en/home-decor-and-furnishings,1
 http://www.teara.govt.nz/en/household-management,1
-http://www.teara.govt.nz/en/humour,1
-http://www.teara.govt.nz/en/libraries,1
-http://www.teara.govt.nz/en/life-sciences,1
 http://www.teara.govt.nz/en/linguistics,1
 http://www.teara.govt.nz/en/manners-and-social-behaviour,1
 http://www.teara.govt.nz/en/maori-humour-te-whakakata,1
@@ -2295,22 +2247,13 @@ http://www.teara.govt.nz/en/maori-manners-and-social-behaviour-nga-mahi-tika,1
 http://www.teara.govt.nz/en/maori-weaving-and-tukutuku-te-raranga-me-te-whatu,1
 http://www.teara.govt.nz/en/marching-teams-and-cheerleaders,1
 http://www.teara.govt.nz/en/matauranga-maori-education,1
-http://www.teara.govt.nz/en/minor-outdoor-sports,1
 http://www.teara.govt.nz/en/newspapers,1
 http://www.teara.govt.nz/en/nga-karakia-a-te-maori-traditional-maori-religion,1
 http://www.teara.govt.nz/en/nga-matapono-o-te-tiriti-principles-of-the-treaty-of-waitangi,1
 http://www.teara.govt.nz/en/nga-poropiti-maori-prophetic-movements,1
-http://www.teara.govt.nz/en/non-fiction,1
-http://www.teara.govt.nz/en/personal-grooming,1
-http://www.teara.govt.nz/en/photography,1
-http://www.teara.govt.nz/en/physics-chemistry-and-mathematics,1
 http://www.teara.govt.nz/en/picnics-and-barbecues,1
 http://www.teara.govt.nz/en/powered-water-sports,1
 http://www.teara.govt.nz/en/property-crime,1
-http://www.teara.govt.nz/en/public-commercial-and-church-architecture,1
-http://www.teara.govt.nz/en/public-history,1
-http://www.teara.govt.nz/en/publishing,1
-http://www.teara.govt.nz/en/restaurants-and-food-outlets,1
 http://www.teara.govt.nz/en/rhythms-of-daily-life,1
 http://www.teara.govt.nz/en/rugby-league,1
 http://www.teara.govt.nz/en/screen-industry,1
@@ -2333,6 +2276,7 @@ https://teara.govt.nz/en/abortion,1
 https://teara.govt.nz/en/acclimatisation,1
 https://teara.govt.nz/en/accountancy,1
 https://teara.govt.nz/en/active-faults,1
+https://teara.govt.nz/en/actors-and-acting,1
 https://teara.govt.nz/en/adoption,1
 https://teara.govt.nz/en/adult-education,1
 https://teara.govt.nz/en/advertising,1
@@ -2354,6 +2298,7 @@ https://teara.govt.nz/en/anglican-church,1
 https://teara.govt.nz/en/animal-welfare-and-rights,1
 https://teara.govt.nz/en/anniversaries,1
 https://teara.govt.nz/en/antarctica-and-new-zealand,1
+https://teara.govt.nz/en/anthropology-and-archaeology,1
 https://teara.govt.nz/en/anti-racism-and-treaty-of-waitangi-activism,1
 https://teara.govt.nz/en/ants,1
 https://teara.govt.nz/en/apples-and-pears,1
@@ -2362,6 +2307,7 @@ https://teara.govt.nz/en/aquaculture,1
 https://teara.govt.nz/en/arable-farming,1
 https://teara.govt.nz/en/arcade-computer-and-video-games,1
 https://teara.govt.nz/en/archery-fencing-shooting-and-military-re-enactment,1
+https://teara.govt.nz/en/archives,1
 https://teara.govt.nz/en/armed-forces,1
 https://teara.govt.nz/en/arts-and-social-engagement,1
 https://teara.govt.nz/en/arts-and-the-nation,1
@@ -2456,9 +2402,11 @@ https://teara.govt.nz/en/city-public-spaces,1
 https://teara.govt.nz/en/city-styles,1
 https://teara.govt.nz/en/civil-defence,1
 https://teara.govt.nz/en/class,1
+https://teara.govt.nz/en/classical-and-foreign-language-studies,1
 https://teara.govt.nz/en/classical-musicians,1
 https://teara.govt.nz/en/climate,1
 https://teara.govt.nz/en/climate-change,1
+https://teara.govt.nz/en/clothes,1
 https://teara.govt.nz/en/clothing-and-footwear-manufacturing,1
 https://teara.govt.nz/en/coaches-and-long-distance-buses,1
 https://teara.govt.nz/en/coal-and-coal-mining,1
@@ -2471,6 +2419,7 @@ https://teara.govt.nz/en/coins-and-banknotes,1
 https://teara.govt.nz/en/cold-war,1
 https://teara.govt.nz/en/collecting,1
 https://teara.govt.nz/en/colonial-and-provincial-government,1
+https://teara.govt.nz/en/comics-and-graphic-novels,1
 https://teara.govt.nz/en/commissions-of-inquiry,1
 https://teara.govt.nz/en/communes-and-communities,1
 https://teara.govt.nz/en/composers,1
@@ -2501,6 +2450,7 @@ https://teara.govt.nz/en/cycle-racing,1
 https://teara.govt.nz/en/daily-life-in-maori-communities-te-noho-a-te-hapori,1
 https://teara.govt.nz/en/dairying-and-dairy-products,1
 https://teara.govt.nz/en/dalmatians,1
+https://teara.govt.nz/en/dancing,1
 https://teara.govt.nz/en/death-and-dying,1
 https://teara.govt.nz/en/death-rates-and-life-expectancy,1
 https://teara.govt.nz/en/deep-sea-creatures,1
@@ -2533,6 +2483,7 @@ https://teara.govt.nz/en/earthquakes,1
 https://teara.govt.nz/en/earthworms,1
 https://teara.govt.nz/en/east-coast-places,1
 https://teara.govt.nz/en/east-coast-region,1
+https://teara.govt.nz/en/eating,1
 https://teara.govt.nz/en/economic-history,1
 https://teara.govt.nz/en/economic-thought,1
 https://teara.govt.nz/en/economy,1
@@ -2670,6 +2621,7 @@ https://teara.govt.nz/en/housing,1
 https://teara.govt.nz/en/housing-and-government,1
 https://teara.govt.nz/en/human-effects-on-the-environment,1
 https://teara.govt.nz/en/human-rights,1
+https://teara.govt.nz/en/humour,1
 https://teara.govt.nz/en/hungarians,1
 https://teara.govt.nz/en/hunting,1
 https://teara.govt.nz/en/hydroelectricity,1
@@ -2751,9 +2703,11 @@ https://teara.govt.nz/en/law-of-the-foreshore-and-seabed,1
 https://teara.govt.nz/en/law-of-the-sea,1
 https://teara.govt.nz/en/leisure-in-traditional-maori-society-nga-mahi-a-te-rehia,1
 https://teara.govt.nz/en/lesbian-lives,1
+https://teara.govt.nz/en/libraries,1
 https://teara.govt.nz/en/lichens,1
 https://teara.govt.nz/en/life-in-fresh-water,1
 https://teara.govt.nz/en/life-in-hot-springs,1
+https://teara.govt.nz/en/life-sciences,1
 https://teara.govt.nz/en/lifesaving-and-surfing,1
 https://teara.govt.nz/en/light,1
 https://teara.govt.nz/en/lighthouses,1
@@ -2833,6 +2787,7 @@ https://teara.govt.nz/en/migrant-and-refugee-organisations,1
 https://teara.govt.nz/en/military-and-sport,1
 https://teara.govt.nz/en/military-medals,1
 https://teara.govt.nz/en/mining-and-underground-resources,1
+https://teara.govt.nz/en/minor-outdoor-sports,1
 https://teara.govt.nz/en/missions-and-missionaries,1
 https://teara.govt.nz/en/moa,1
 https://teara.govt.nz/en/modern-mapping-and-surveying,1
@@ -2863,6 +2818,7 @@ https://teara.govt.nz/en/nelson-region,1
 https://teara.govt.nz/en/netball,1
 https://teara.govt.nz/en/new-zealand-culture-overseas,1
 https://teara.govt.nz/en/new-zealand-identity,1
+https://teara.govt.nz/en/new-zealand-sign-language,1
 https://teara.govt.nz/en/new-zealand-species-overseas,1
 https://teara.govt.nz/en/new-zealand-wars,1
 https://teara.govt.nz/en/nga-hahi-maori-and-christian-denominations,1
@@ -2903,6 +2859,7 @@ https://teara.govt.nz/en/ngati-whatua,1
 https://teara.govt.nz/en/night-sky,1
 https://teara.govt.nz/en/nightclubs,1
 https://teara.govt.nz/en/niueans,1
+https://teara.govt.nz/en/non-fiction,1
 https://teara.govt.nz/en/north-americans,1
 https://teara.govt.nz/en/northland-places,1
 https://teara.govt.nz/en/northland-region,1
@@ -2942,9 +2899,12 @@ https://teara.govt.nz/en/peacekeeping,1
 https://teara.govt.nz/en/penguins,1
 https://teara.govt.nz/en/perceptions-of-the-landscape,1
 https://teara.govt.nz/en/peripatus,1
+https://teara.govt.nz/en/personal-grooming,1
 https://teara.govt.nz/en/petrels,1
 https://teara.govt.nz/en/pets,1
 https://teara.govt.nz/en/philosophy,1
+https://teara.govt.nz/en/photography,1
+https://teara.govt.nz/en/physics-chemistry-and-mathematics,1
 https://teara.govt.nz/en/pigs-and-the-pork-industry,1
 https://teara.govt.nz/en/place-names,1
 https://teara.govt.nz/en/plankton,1
@@ -2977,12 +2937,15 @@ https://teara.govt.nz/en/private-education,1
 https://teara.govt.nz/en/protected-areas,1
 https://teara.govt.nz/en/public-and-street-art,1
 https://teara.govt.nz/en/public-buildings,1
+https://teara.govt.nz/en/public-commercial-and-church-architecture,1
 https://teara.govt.nz/en/public-gardens,1
 https://teara.govt.nz/en/public-health,1
+https://teara.govt.nz/en/public-history,1
 https://teara.govt.nz/en/public-holidays,1
 https://teara.govt.nz/en/public-protest,1
 https://teara.govt.nz/en/public-service,1
 https://teara.govt.nz/en/public-transport,1
+https://teara.govt.nz/en/publishing,1
 https://teara.govt.nz/en/pulp-and-paper-aluminium-and-steel-industries,1
 https://teara.govt.nz/en/rabbits,1
 https://teara.govt.nz/en/radiata-pine,1
@@ -3003,6 +2966,7 @@ https://teara.govt.nz/en/regional-economies,1
 https://teara.govt.nz/en/religion-and-society,1
 https://teara.govt.nz/en/research-institutions,1
 https://teara.govt.nz/en/reserve-bank,1
+https://teara.govt.nz/en/restaurants-and-food-outlets,1
 https://teara.govt.nz/en/riri-traditional-maori-warfare,1
 https://teara.govt.nz/en/rivers,1
 https://teara.govt.nz/en/road-accidents,1
@@ -3091,6 +3055,8 @@ https://teara.govt.nz/en/sports-venues,1
 https://teara.govt.nz/en/sri-lankans,1
 https://teara.govt.nz/en/starfish-sea-urchins-and-other-echinoderms,1
 https://teara.govt.nz/en/state-owned-enterprises,1
+https://teara.govt.nz/en/state-services-and-the-public-service-commission,1
+https://teara.govt.nz/en/state-services-and-the-public-service-commissioner,1
 https://teara.govt.nz/en/state-services-and-the-state-services-commission,1
 https://teara.govt.nz/en/stewart-islandrakiura,1
 https://teara.govt.nz/en/stick-insects,1
@@ -3258,10 +3224,14 @@ https://teara.govt.nz/en/young-people-and-the-arts,1
 https://teara.govt.nz/en/youth-offenders,1
 https://teara.govt.nz/en/youth-organisations,1
 https://teara.govt.nz/en/zoos-and-aquariums,1
+mini dress,1
+model,1
 new husband ( Petelo Mete) dances faatele.,1
 opinion piece,1
+performance,1
 "photograph, envelope",1
 "photograph, negative/s",1
+state-services-and-the-public-service-commission,1
 table-interactive,1
 tauranga-moana,1
 tauranga-moana-tribes,1
