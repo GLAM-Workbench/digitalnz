@@ -39,7 +39,7 @@ jobs:
         DOCKER_PASSWORD: ${{ secrets.QUAY_PASSWORD }}
         DOCKER_REGISTRY: "quay.io"
         BINDER_CACHE: true
-        IMAGE_NAME: ${{ github.repository }}
+        IMAGE_NAME: glamworkbench/${{ github.event.repository.name }}
 
     - name: Modify readme for DockerHub
       run: |
@@ -50,6 +50,6 @@ jobs:
       env:
         DOCKER_APIKEY: ${{ secrets.API_KEY__QUAY_IO }}
       with:
-        destination_container_repo: quay.io/${{ github.repository }}
+        destination_container_repo: quay.io/glamworkbench/${{ github.event.repository.name }}
         provider: quay
         readme_file: 'README.md'
