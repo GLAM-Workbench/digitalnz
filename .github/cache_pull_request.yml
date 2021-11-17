@@ -11,12 +11,12 @@ jobs:
       uses: jupyterhub/repo2docker-action@master
       with:
         NO_PUSH: true
-        MYBINDERORG_TAG: {% raw %}${{ github.event.pull_request.head.ref }}{% endraw %}
+        MYBINDERORG_TAG: ${{ github.event.pull_request.head.ref }}
 
     - name: comment on PR with Binder link
       uses: actions/github-script@v1
       with:
-        github-token: {% raw %}${{secrets.GITHUB_TOKEN}}{% endraw %}
+        github-token: ${{secrets.GITHUB_TOKEN}}
         script: |
           var BRANCH_NAME = process.env.BRANCH_NAME;
           github.issues.createComment({
@@ -26,4 +26,4 @@ jobs:
             body: `[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/${context.repo.owner}/${context.repo.repo}/${BRANCH_NAME}) :point_left: Launch a binder notebook on this branch`
           })
       env:
-        BRANCH_NAME: {% raw %}${{ github.event.pull_request.head.ref }}{% endraw %}
+        BRANCH_NAME: ${{ github.event.pull_request.head.ref }}
