@@ -91,7 +91,7 @@ You can use Docker to run a pre-built computing environment on your own computer
 * Create a new directory for this repository and open it from the command line.
 * From the command line, run the following command:  
   ```
-  docker run -p 8888:8888 --name {{ cookiecutter.repository_name }} -v "$PWD":/home/jovyan/work quay.io/glamworkbench/digitalnz repo2docker-entrypoint jupyter lab --ip 0.0.0.0 --NotebookApp.token='' --LabApp.default_url='/lab/tree/index.ipynb'
+  docker run -p 8888:8888 --name digitalnz -v "$PWD":/home/jovyan/work quay.io/glamworkbench/digitalnz repo2docker-entrypoint jupyter lab --ip 0.0.0.0 --NotebookApp.token='' --LabApp.default_url='/lab/tree/index.ipynb'
   ```
 * It will take a while to download and configure the Docker image. Once it's ready you'll see a message saying that Jupyter Notebook is running.
 * Point your web browser to `http://127.0.0.1:8888`
@@ -112,7 +112,7 @@ Assuming you have recent versions of Python and Git installed, the steps might b
 * Install the necessary Python packages: `pip install -r requirements.txt`
 * Run Jupyter: `jupyter lab`
 
-See the [GLAM Workbench for [more details](https://glam-workbench.net/getting-started/#using-python-on-your-own-computer.
+See the [GLAM Workbench](https://glam-workbench.net/getting-started/#using-python-on-your-own-computer) for more details.
 
 <!-- END RUN INFO -->
 
