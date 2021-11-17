@@ -1,0 +1,42 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "GLAM-Workbench/digitalnz",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/GLAM-Workbench/digitalnz/tree/v1.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/digitalnz/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v1.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "DigitalNZ",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2021-11-17",
+  "creators": [
+    {
+      "orcid": "0000-0001-7956-4498",
+      "name": "Sherratt, Tim"
+    }
+  ],
+  "access_right": "open",
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/digitalnz/releases/tag/v1.0.0\">v1.0.0</a></p> <p>Jupyter notebooks to work with data from DigitalNZ’s API. For more information see the <a href=\"https://glam-workbench.net/digitalnz/\">DigitalNZ</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <h3 id=\"exploring-the-api\">Exploring the API</h3> <ul> <li>Build a DigitalNZ API search query – experiment with the DigitalNZ search API</li> <li>Getting some top-level data from the DigitalNZ API – poke around at the top-level of DigitalNZ, mainly using facets to generate some collection overviews and summaries</li> </ul> <h3 id=\"harvesting-data\">Harvesting data</h3> <ul> <li>Harvest facet data from DigitalNZ – explores what facets are available from the DigitalNZ API and demonstrates how to harvest data from them</li> <li>Harvest data from Papers Past – harvest large amounts of data from <a href=\"https://paperspast.natlib.govt.nz/\">Papers Past</a> (via DigitalNZ) for further analysis</li> </ul> <h3 id=\"tips-and-tricks\">Tips and tricks</h3> <ul> <li>Select a random(ish) record from DigitalNZ – examines the available facets, then uses them to reduce the size of the results set until it’s possible to select a random record</li> <li>Find results by country in DigitalNZ – find records relating to particular countries by searching for geocoded locations using bounding boxes</li> </ul> <h3 id=\"visualising-collections\">Visualising collections</h3> <ul> <li>QueryPic DigitalNZ – a web app to visualise searches in Papers Past over time</li> <li>Visualise a search in Papers Past – create a simple visualisation showing the distribution of a search over time and by newspaper</li> <li>Papers Past newspapers in DigitalNZ – displays details of the Papers Past newspapers available through DigitalNZ</li> <li>Visualising open collections in DigitalNZ – assemble data relating to the <code>usage</code> status of collections and visualise the results in a suitably colourful burst of fireworks!</li> </ul> <h2 id=\"datasets\">Datasets</h2> <ul> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/facets.csv\">Summary of facets</a></li> <li>Individual facets: <ul> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/category.csv\">collection.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/creator.csv\">creator.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/subject.csv\">subject.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/format.csv\">format.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/placename.csv\">placename.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/decade.csv\">decade.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/content_partner.csv\">content_partner.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/language.csv\">language.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/century.csv\">century.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/usage.csv\">usage.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/rights.csv\">rights.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/year.csv\">year.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/copyright.csv\">copyright.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/dc_type.csv\">dc_type.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/category.csv\">category.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/primary_collection.csv\">primary_collection.csv</a></li> </ul></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/collections_by_partner.csv\">collections_by_partner.csv</a></li> <li><a href=\"https://github.com/GLAM-Workbench/digitalnz/blob/master/facets/collections_by_partner.csv\">usage_by_collection_and_partner.csv</a></li> </ul> <p>See the <a href=\"https://glam-workbench.github.io/digitalnz/\">GLAM Workbench for more details</a>.</p> <h2 id=\"cite-as\">Cite as</h2> <p>See the GLAM Workbench or <a href=\"https://doi.org/10.5281/zenodo.3544729\">Zenodo</a> for up-to-date citation details.</p> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.net/\">GLAM Workbench</a>. If you think this project is worthwhile, you can become <a href=\"https://github.com/sponsors/wragge?o=esb\">a GitHub sponsor</a>.</p>"
+}
