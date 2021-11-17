@@ -1,0 +1,19 @@
+jupyterlab
+jupyter-archive
+voila
+voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
+pandas
+pygments
+python-slugify
+vega_datasets
+requests_cache
+requests
+country_bounding_boxes
+ipywidgets
+IPython
+tqdm
+altair
+ipyvuetify
+voila-vuetify
+arrow
+
