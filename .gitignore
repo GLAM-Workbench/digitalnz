@@ -2,6 +2,8 @@
 .DS_Store
 snippets.ipynb
 .ipynb_checkpoints
-cache.sqlite
+*.sqlite
 data
 Untitled*
+*.old
+dev
